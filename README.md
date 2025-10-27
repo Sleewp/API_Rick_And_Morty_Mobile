@@ -13,4 +13,4 @@
 ## Tópicos da Wiki:
 1. [Protótipo](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/1.-Protótipo)<br>
 
-2. [Análise da API]([https://github.com/Alex2024Campos/Tomb_Raider_Mobile_APP/wiki/2.-Prot%C3%B3tipo](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/2.-Análise-da-API))<br>
+2. [Análise da API](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/2.-Análise-da-API)<br>
