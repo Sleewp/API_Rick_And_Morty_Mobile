@@ -16,3 +16,5 @@
 1. [Protótipo](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/1.-Protótipo)<br>
 
 2. [Análise da API](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/2.-Análise-da-API)<br>
+
+3. [Codificação](https://github.com/Sleewp/API_Rick_And_Morty_Mobile/wiki/3.-Codificação)<br>
